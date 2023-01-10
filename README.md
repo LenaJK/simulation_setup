@@ -1,2 +1,2 @@
 # simulation_setup
-Calculates particle positions and generates input file for lammps
+Calculates particle positions and generates input file for lammps.
